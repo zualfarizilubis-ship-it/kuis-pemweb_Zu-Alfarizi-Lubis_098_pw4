@@ -70,6 +70,10 @@ src/
 ### Detail Tugas
 ![Detail](screenshots/detail.png)
 
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/3f635b2a-3ac2-4f04-9e85-39ca20e36d90" />
+
+
+
 ### Edit Tugas
 ![Update](screenshots/update.png)
 
